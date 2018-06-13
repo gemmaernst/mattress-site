@@ -1,0 +1,94 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+h3{
+  font-size: 2rem;
+}
+
+h4{
+  font-size: 2rem;
+}
+
+q{
+  font-size: 2rem;
+}
+
+
+[class*=col-] {
+  padding: 5%;
+
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.bg-image {
+  background-color: yellow;
+}
+
+
+.banner {
+  background-image: url('../images/leaves.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 90vh;
+  color: white;
+  text-align: center;
+  font-size: 24px;
+}
+.mark {
+    color: yellow;
+}
+
+.dog {
+  background-image: url('../images/dog.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 80vh;
+  color: white;
+}
+
+.bed {
+  background-image: url('../images/bed.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 80vh;
+  color: white;
+}
+
+.black {
+  color:black;
+}
+
+.pencil {
+  background-image: url('../images/pencil.jpg');
+  background-size: cover;
+  background-position: top;
+  min-height: 40vh;
+  color: white;
+}
+
+.quote {
+  padding: 5%;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+/* Benefits styling - blue text */
+.benefits {
+
+}
+
+.p
+{
+  text-align: center;
+}
